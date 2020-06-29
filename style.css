@@ -1,0 +1,310 @@
+.btn {
+
+
+font-size: 30px;
+border: none;
+margin: 5px;
+padding: 4px;
+
+cursor: pointer;
+}
+
+
+
+body{
+
+background-color: aquamarine;
+
+
+}
+
+.new{
+
+color: rgb(255, 255, 255);
+background-color: blue;
+
+
+
+}
+
+.new:hover{
+
+   
+    background-color: rgb(12, 12, 143);
+   
+    
+    
+    }
+
+
+
+.old{
+
+color: white;
+background-color: chocolate;
+
+
+
+}
+
+
+
+
+.old:hover{
+
+   
+    background-color: rgb(151, 68, 8);
+    
+ 
+    
+    }
+    
+
+
+.current{
+
+color: white;
+background-color: teal;
+
+
+}
+
+
+.current:hover{
+
+   
+    background-color: rgb(7, 95, 95);
+  
+    
+    }
+    
+
+
+
+.password{
+
+
+ 
+ background-color: rgb(113, 163, 14);
+ 
+ 
+    color: white;
+}
+
+.password:hover{
+
+
+
+    background-color: rgb(80, 119, 2);
+    
+    
+  
+   }
+
+
+.forget{
+
+background-color: red;
+    color: white;
+}
+
+
+.forget:hover{
+
+    background-color: rgb(163, 10, 10);
+   
+    }
+
+
+
+
+
+
+/*new button style start*/
+
+
+
+.btun{
+
+
+    font-size: 30px;
+    margin: 5px;
+    padding: 4px;
+    
+    cursor: pointer;
+background-color: aquamarine;
+}
+
+
+
+
+.newb{
+    color: lightcoral;
+    border:2px solid lightcoral ;
+
+}
+
+.newb:hover{
+
+    color: white;
+    border: lightcoral;
+
+    background-color: lightcoral;
+}
+
+.oldb{
+
+color: chocolate;
+border:2px solid chocolate ;
+
+
+}
+
+
+
+.oldb:hover{
+
+    color: white;
+    border: chocolate;
+    background-color: chocolate;
+}
+
+    
+
+.currentb{
+
+
+    color: steelblue;
+    border:2px solid steelblue ;
+
+}
+
+
+.currentb:hover{
+
+    color: white;
+    border: steelblue;
+    background-color: steelblue;
+}
+
+.passwordb{
+
+
+    color: orange;
+    border:2px solid orange ;
+
+}
+
+.passwordb:hover{
+
+    background-color: orange;
+    color: white;
+    border: orange;
+}
+
+
+.forgetb{
+    
+    color: red;
+    border:2px solid red ;
+
+
+}
+
+
+
+.forgetb:hover{
+
+    background-color: red;
+    color: white;
+    border: red;
+
+
+}
+
+
+
+
+
+
+
+/*new button*/
+
+
+
+
+.button {
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
